@@ -83,7 +83,7 @@ Instagram - приложение для обмена фотографиями с
 
 ### 3. Логическая схема БД
 
-[](https://github.com/Alkirys/instagram-highload/blob/main/images/BD_logic.png)
+[](https://github.com/Alkirys/instagram-highload/blob/main/images/BD_logic.png?raw=true)
 
 ### 4. Физические системы хранения
 
